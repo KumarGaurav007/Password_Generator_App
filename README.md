@@ -4,7 +4,8 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)  
 
-![Password Generator Banner](./images/banner(2).png)  
+![Password Generator Banner](./images/banner.png)
+
 *A simple web app to generate strong and secure random passwords of any length with just one click.*  
 
 ---
