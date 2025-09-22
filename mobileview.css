@@ -1,0 +1,54 @@
+@media screen and (max-width: 800px) {
+    .container {
+        margin: 20% auto;
+        width: 90%;
+        padding-right: 20px;
+    }    
+
+    .container h1 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .display {
+        flex-direction: row;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .display input {
+        font-size: 18px;
+        text-align: left;
+        padding: 4px;
+    }
+
+    .display img {
+        width: 22px;
+        align-self: flex-end;
+    }
+
+    .passLen label {
+        font-size: 18px;
+
+    }
+
+    .passLen input {
+        font-size: 18px;
+        width: 70px;
+    }
+
+    .container button {
+        font-size: 18px;
+        padding: 12px;
+    }
+
+    footer {
+        font-size: 14px;
+        text-align: center;
+        position: fixed;
+        bottom: 10px;
+        width: 100%;
+        padding: 10px;
+
+    }
+}

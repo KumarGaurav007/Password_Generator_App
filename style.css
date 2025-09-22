@@ -32,6 +32,7 @@ body {
     align-items: center;
     justify-content: space-between;
     border-radius: 5px;
+
 }
 
 .container h1 {
@@ -110,4 +111,8 @@ footer {
     text-align: center;
     background: #019f55;
     opacity: 80%;
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+
 }
