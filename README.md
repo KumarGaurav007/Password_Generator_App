@@ -6,7 +6,9 @@
 
 ![Password Generator Banner](./images/banner.png)
 
-*A simple web app to generate strong and secure random passwords of any length with just one click.*  
+*A simple web app to generate strong and secure random passwords of any length with just one click.* 
+
+[**Checkout Random Password Generator Live*](https://password-generator-gaurav.vercel.app/)
 
 ---
 
