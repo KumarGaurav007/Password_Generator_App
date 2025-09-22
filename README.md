@@ -8,7 +8,7 @@
 
 *A simple web app to generate strong and secure random passwords of any length with just one click.* 
 
-[**Checkout Random Password Generator Live*](https://password-generator-gaurav.vercel.app/)
+[**Checkout Random Password Generator Live**](https://password-generator-gaurav.vercel.app/)
 
 ---
 
